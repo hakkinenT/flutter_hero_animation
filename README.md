@@ -1,16 +1,34 @@
-# flutter_hero_animation
+# Hero Animation 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hakkinenT/flutter_hero_animation/blob/master/LICENSE) 
 
-A new Flutter project.
+# Sobre o projeto
 
-## Getting Started
+Hero Animation é um pequeno projeto, cujo objetivo é explorar a Animação Hero do Flutter.
 
-This project is a starting point for a Flutter application.
+## Imagens do App
+![Gif 1](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-hero-animation/video.gif) 
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias utilizadas
+- Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Como executar o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# clonar repositório
+git clone https://github.com/hakkinenT/flutter_hero_animation.git
+
+# entrar na pasta do projeto 
+cd flutter_hero_animation
+
+# instalar dependências
+flutter pub get
+
+# executar o projeto
+flutter run
+```
+
+# Autor
+
+Tawanna Hakkinen Oliveira Leite
+
+https://www.linkedin.com/in/tawannahakkinen/
